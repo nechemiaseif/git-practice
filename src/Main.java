@@ -43,6 +43,7 @@ public class Main {
         
         System.out.println("Something stupid");
         
+        System.out.println("Something smart");
     }
 
 }
