@@ -40,6 +40,9 @@ public class Main {
         }
 
 	System.out.println("I hate not having sout!");
+        
+        System.out.println("Something stupid");
+        
     }
 
 }
