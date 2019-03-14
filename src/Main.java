@@ -1,18 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 import java.util.Scanner;
-/**
- *
- * @author neche
- */
+
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         String oneWrong = "wrong";
@@ -38,40 +27,7 @@ public class Main {
         else {
             System.out.println("\nThat is invalid input, so run the program again, please :) ");
         }
-
-	System.out.println("I hate not having sout!");
-        
-        System.out.println("Something stupid");
-        
-        System.out.println("Something smart");
-
-        System.out.println("Grammar and stuff");
+             
     }
 
 }
-
-
-/*
-Ugh, I hate template garbage!
- */
- /*
-Ugh, I hate template garbage!
- */
- /*
-Ugh, I hate template garbage!
- */
- /*
-Ugh, I hate template garbage!
- */
- /*
-Ugh, I hate template garbage!
- */
- /*
-Ugh, I hate template garbage!
- */
- /*
-Ugh, I hate template garbage!
- */
- /*
-Ugh, I hate template garbage!
- */
