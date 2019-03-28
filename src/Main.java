@@ -27,6 +27,12 @@ public class Main {
         else {
             System.out.println("\nThat is invalid input, so run the program again, please :) ");
         }
+        
+        System.out.println("\n\n");
+        
+        for(int i = 0; i < 8; i++) {
+            System.out.println("Ethan is " + i + (i == 1 ? " year" : " years") + " old.");
+        }
              
     }
 
